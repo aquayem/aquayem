@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Quayem Abbas</h1>
-  <h4 align="center">I am looking to work in a role that provides me with an ideal platform to showcase, and simultaneously improve my analytical abilities. My analytical mindset, honed through diverse experiences, align perfectly with aims of becoming an analyst. I am proficient in Power BI and Tableau, and can visualise data for strategic decision making.</h4>
+  <h1 align="center">Hi! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Quayem Abbas</h1>
+  <h4 align="center">I am looking to work in a role that provides me with an ideal platform to showcase, and simultaneously improve, my analytical abilities. My methodical mindset, honed through diverse experiences, align perfectly with the aims of becoming an analyst. I am proficient in Power BI, Tableau, and can visualise data for strategic decision making.</h4>
 </div>
 
 <p align="center">
